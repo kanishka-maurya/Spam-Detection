@@ -1,0 +1,5 @@
+Building Pipeline:
+1. create a github repo and clone it in local (add experiments).
+2. add src folder along with all components (run them individually).
+3. add data, models, report directories to .gitigonre file.
+4. now git add, commit, push.
