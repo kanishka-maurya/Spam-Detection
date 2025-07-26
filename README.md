@@ -12,7 +12,6 @@ This project demonstrates how to build a **modular**, **reproducible**, and **ex
   - Data preprocessing
   - Model training
   - Model evaluation
-  - Utility functions
 
 - Created dedicated directories for:
   - `data/` → raw and processed datasets  
